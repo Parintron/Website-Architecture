@@ -1,0 +1,71 @@
+body{
+    width: 750px;
+    margin: auto;
+    border-left: 5px solid #433D8B;
+    border-right: 5px solid #433D8B;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color: #FFFED3;
+}
+.header{
+    border-top: 5px solid #433D8B;
+    border-bottom: 5px solid #433D8B;
+    text-align: center;
+    background-color: #694F8E;
+}
+.all{
+    background-color: #FFFED3;
+}
+.sidebar{
+    float: left;
+    background-color: #9B86BD;
+    color: #694F8E;
+    min-height: 340px;
+    height: auto;
+}
+.sidebar h3{
+    border: 5px solid #5A639C;
+    width: 170px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #B1AFFF;
+    text-align: center;
+}
+.main{
+    float: right;
+    color: #694F8E;
+}
+.banner{
+    width: 530px;
+    min-height: 150px;
+    text-align: center;
+    border: 5px solid #B1AFFF;
+    margin: 5px;
+    background-color: #FFC7ED;
+}
+.news{
+    width: 255px;
+    min-height: 150px;
+    border: 5px solid #B1AFFF;
+    text-align: center;
+    margin: 5px;
+    float: left;
+    background-color: #FFC7ED;
+}
+.todolist{
+    width: 255px;
+    min-height: 150px;
+    border: 5px solid #B1AFFF;
+    text-align: center;
+    margin: 5px;
+    float: right;
+    background-color: #FFC7ED;
+}
+footer{
+    clear: both;
+    text-align: center;
+    border-top: 5px solid #433D8B;
+    border-bottom: 5px solid #433D8B;
+    background-color: #694F8E;
+}
+
